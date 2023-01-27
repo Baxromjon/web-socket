@@ -4,6 +4,7 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import Header from "./Header";
 import Chat from "./Chat";
 import SockJsClient from 'react-stomp';
+import {BASEURL} from "./util/constant";
 
 class App extends Component {
     constructor(props) {

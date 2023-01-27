@@ -1,6 +1,6 @@
 package fl.io.chatapp;
 
-import david.balzan.chatapp.model.ChatMessage;
+import fl.io.chatapp.model.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

@@ -1,6 +1,6 @@
 package fl.io.chatapp;
 
-import david.balzan.chatapp.model.ChatMessage;
+import fl.io.chatapp.model.ChatMessage;
 import lombok.extern.java.Log;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.EventListener;
